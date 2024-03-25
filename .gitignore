@@ -1,0 +1,14 @@
+### my .gitignore
+
+# Folders
+.doc/
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+
+# Files
+mrthcn.txt
+assets/css/style_copy.css
+assets/css/style.min.css
+package-lock.json
